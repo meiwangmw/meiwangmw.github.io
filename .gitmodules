@@ -1,0 +1,3 @@
+[submodule "themes/void"]
+	path = themes/void
+	url = https://github.com/meiwangmw/hugo-theme-void

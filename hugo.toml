@@ -1,0 +1,7 @@
+baseURL = 'https://meiwangmw.github.io/'
+languageCode = 'en-us'
+title = 'Mei Wang'
+theme = "void"
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

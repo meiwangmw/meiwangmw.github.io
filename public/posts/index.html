@@ -3,7 +3,7 @@
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
-<title>Categories | Mei Wang</title>
+<title>Posts | Mei Wang</title>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -210,7 +210,7 @@
     </li>
     <li class="text-gray-600 hover:text-gray-900 text-base sm:text-lg">
       <a
-        class="px-2 py-1 sm:px-3 sm:py-2 rounded hover:bg-gray-100 transition-colors" href="/posts/">Posts</a>
+        class="px-2 py-1 sm:px-3 sm:py-2 rounded hover:bg-gray-100 transition-colors" aria-current="page" class="active font-bold" href="/posts/">Posts</a>
     </li>
     <li class="text-gray-600 hover:text-gray-900 text-base sm:text-lg">
       <a
@@ -230,63 +230,68 @@
   <div class="flex-1 flex flex-col min-h-screen pt-24">
     <main class="flex-1 w-full max-w-4xl mx-auto px-6 overflow-x-auto sm:overflow-visible">
       
-<div class="max-w-4xl mx-auto px-4 py-8">
-  <h1 class="text-3xl font-bold text-center text-gray-800 mb-8">Categories</h1>
-  
-  
-  <div class="mb-8 text-center text-gray-600 text-sm">
-    <p>Click any category to expand or collapse articles</p>
-  </div>
-  
-  
-  <div class="space-y-4">
+  <div class="max-w-4xl mx-auto px-4 py-8">
+    <h1 class="text-3xl font-bold text-center text-gray-800 mb-8">Posts</h1>
     
-  </div>
-  
-  
-  <div class="mt-10 text-center">
-    <a href="/" class="inline-flex items-center text-gray-600 hover:text-green-600 transition-colors">
-      <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18" />
-      </svg>
-      Back to Home
-    </a>
-  </div>
-</div>
-
-
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const toggles = document.querySelectorAll('.category-toggle');
-    
-    toggles.forEach(toggle => {
-      toggle.addEventListener('click', function() {
-        const targetId = this.getAttribute('data-target');
-        const target = document.getElementById(targetId);
-        const icon = this.querySelector('.category-icon');
+    <div class="space-y-16">
+      
+      <div class="relative">
         
-        if (target.classList.contains('hidden')) {
-          target.classList.remove('hidden');
-          icon.classList.add('rotate-180');
-        } else {
-          target.classList.add('hidden');
-          icon.classList.remove('rotate-180');
-        }
-      });
-    });
+        <div class="mb-6 flex items-center">
+          <div class="flex-shrink-0 w-16 h-16 rounded-full bg-gradient-to-br from-blue-50 to-blue-100 flex items-center justify-center text-blue-700 font-bold text-xl shadow-sm">
+            2024
+          </div>
+          <div class="ml-4 h-px bg-gradient-to-r from-blue-200 to-transparent flex-grow"></div>
+        </div>
+        
+        
+        <div class="ml-8 space-y-6">
+          
+          <div class="relative">
+            <a href="/posts/my-first-post/" class="absolute inset-0 z-10" aria-label="My First Post"></a>
+            <div class="bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow duration-300 overflow-hidden group">
+              <div class="p-5">
+                <div class="flex flex-col sm:flex-row sm:items-baseline justify-between mb-3">
+                  <h3 class="text-xl font-medium text-gray-800 group-hover:text-blue-600 transition-colors">
+                    My First Post
+                  </h3>
+                  <time class="text-sm text-gray-500 mt-1 sm:mt-0 sm:ml-4 flex-shrink-0 flex items-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 mr-1 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                    </svg>
+                    Jan 14
+                  </time>
+                </div>
+                
+                
+                <div class="text-gray-600 text-sm line-clamp-2">
+                  Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!
 
+                </div>
+                
+                
+                
+                
+                <div class="mt-4">
+                  <span class="inline-flex items-center text-blue-600 text-sm group-hover:translate-x-1 transition-transform duration-300">
+                    Read more
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                    </svg>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+      
+    </div>
     
-    const articleLinks = document.querySelectorAll('.article-link');
-    articleLinks.forEach(article => {
-      article.addEventListener('click', function() {
-        const href = this.getAttribute('data-href');
-        if (href) {
-          window.location.href = href;
-        }
-      });
-    });
-  });
-</script>
+    
+  </div>
 
     </main>
   </div>

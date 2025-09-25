@@ -12,11 +12,11 @@ theme = "void"
     url = "https://avatars.githubusercontent.com/u/234100657?v=4"
   
   [params.social]
-    linkedin = "https://linkedin.com/in/your-profile"
+    linkedin = "https://www.linkedin.com/in/mei-wang-958825139/"
     twitter = "https://twitter.com/your-handle"
     facebook = "https://facebook.com/your-profile"
     scholar = "https://scholar.google.com/citations?user=your-id"
-    email = "your-email@example.com"
+    email = "meiwang.mwang@gmail.com"
 
 # Main menu
 [[menus.main]]

@@ -8,12 +8,15 @@ theme = "void"
 
 # Social media links
 [params]
-  [params.social]
-    github = "https://github.com/meiwangmw"
-    zhihu = "https://www.linkedin.com/in/mei-wang-958825139/"
-    email = "meiwang.mwang@gmail.com"
   [params.avatar]
     url = "https://avatars.githubusercontent.com/u/234100657?v=4"
+  
+  [params.social]
+    linkedin = "https://linkedin.com/in/your-profile"
+    twitter = "https://twitter.com/your-handle"
+    facebook = "https://facebook.com/your-profile"
+    scholar = "https://scholar.google.com/citations?user=your-id"
+    email = "your-email@example.com"
 
 # Main menu
 [[menus.main]]
@@ -22,16 +25,11 @@ pageRef = '/'
 weight = 10
 
 [[menus.main]]
-name = 'Posts'
-pageRef = '/posts'
+name = 'CV'
+pageRef = '/posts/cv'
 weight = 20
 
 [[menus.main]]
-name = 'Tags'
-pageRef = '/tags'
+name = 'Research'
+pageRef = '/research'
 weight = 30
-
-[[menus.main]]
-name = 'About'
-pageRef = '/about'
-weight = 40

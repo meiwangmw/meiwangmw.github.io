@@ -2,8 +2,4 @@
 title: "Mei Wang"
 ---
 
-第一段介绍第一段介绍第一段介绍第一段介绍第一段介绍第一段介绍第一段介绍第一段介绍第一段介绍第一段介绍
-
-第二段介绍第二段介绍第二段介绍第二段介绍第二段介绍第二段介绍第二段介绍第二段介绍第二段介绍第二段介绍第二段介绍
-
-
+I'm Mei Wang, a PhD student of Strategic Management & Entrepreneurship (SME) at the University of Minnesota's Carlson School of Management.

@@ -44,13 +44,6 @@ GPA: 3.55/4.0
 
 ---
 
-**The Effects of Resettlement of Rural Poor People: Evidence from China**  
-*2023–Present | Working in Progress*  
-- Exploit a large place-based program that relocated rural poor in China—the Poverty Alleviation Resettlement (PAR) program between 2016 and 2020.
-- Use ArcGIS and STATA to collect a comprehensive dataset that incorporates prefecture-level data on the number of poor people relocated in the PAR program and county-level data regarding terrain ruggedness index, GDP, nighttime luminosity, population, and business registration records.
-
----
-
 **Addressing the Non-Taking-Up of Supplementary Benefits (Erganzungsleistungen) in Switzerland**  
 *Spring 2023 | Course Work in the seminar on Behavioral Insights for Policy Design (Instructed by Prof. Guilherme Lichand)*  
 - Target the non-taking-up of supplementary benefits, a serious social problem in Switzerland, and analyze the inequality problem and negative externality involved.

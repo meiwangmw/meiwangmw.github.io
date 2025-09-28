@@ -32,5 +32,5 @@ weight = 20
 
 [[menus.main]]
 name = 'Research'
-pageRef = '/research'
+pageRef = ''
 weight = 30

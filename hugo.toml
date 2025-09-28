@@ -12,10 +12,11 @@ theme = "void"
     url = "https://avatars.githubusercontent.com/u/234100657?v=4"
   
   [params.social]
-    linkedin = "https://www.linkedin.com/in/mei-wang-958825139/"
-    twitter = "https://twitter.com/your-handle"
-    facebook = "https://facebook.com/your-profile"
-    scholar = "https://scholar.google.com/citations?user=your-id"
+    linkedin = "https://www.linkedin.com/in/mei-wang-958825139"
+    twitter = "https://x.com/Mei_Wang567"
+    facebook = ""
+    scholar = ""
+    umn = "https://carlsonschool.umn.edu/faculty/mei-wang"
     email = "meiwang.mwang@gmail.com"
 
 # Main menu

@@ -5,7 +5,7 @@ draft = false
 +++
 
 # MEI WANG
-Minneapolois, USA
+Minneapolis, MN, USA
 
 meiwang.mwang@gmail.com
 
@@ -13,12 +13,12 @@ meiwang.mwang@gmail.com
 
 **University of Minnesota**, USA  
 *September 2025 – Present*  
-PhD student in Economics(Strategic Management & Entrepreneurship) at the Carlson School of Management at the University of Minnesota
+PhD student in Business Administration (Strategic Management & Entrepreneurship) at the Carlson School of Management at the University of Minnesota
 
 **European University Institute**, Italy  
 *September 2023 – February 2024*  
 MRes in Economics (fully funded by the Italian Ministry of Foreign Affairs and International Cooperation)  
-- Main content: First-year PhD courses
+Main content: First-year PhD courses
 
 **University of Zurich**, Switzerland  
 *September 2021 – August 2023*  
@@ -42,10 +42,14 @@ GPA: 3.55/4.0
 - Conduct prefectural, county-level, and village-level difference-in-differences (DID) analysis and event studies using STATA.
 - Find that the TPA campaign hinders local economic development as measured by nighttime luminosity and a more centralized administrative system reduces the negative effects of the TPA campaign on local development.
 
+---
+
 **The Effects of Resettlement of Rural Poor People: Evidence from China**  
 *2023–Present | Working in Progress*  
 - Exploit a large place-based program that relocated rural poor in China—the Poverty Alleviation Resettlement (PAR) program between 2016 and 2020.
 - Use ArcGIS and STATA to collect a comprehensive dataset that incorporates prefecture-level data on the number of poor people relocated in the PAR program and county-level data regarding terrain ruggedness index, GDP, nighttime luminosity, population, and business registration records.
+
+---
 
 **Addressing the Non-Taking-Up of Supplementary Benefits (Erganzungsleistungen) in Switzerland**  
 *Spring 2023 | Course Work in the seminar on Behavioral Insights for Policy Design (Instructed by Prof. Guilherme Lichand)*  
@@ -54,12 +58,16 @@ GPA: 3.55/4.0
 - Conduct interviews with 20 qualified potential beneficiaries of the supplementary benefits and study existing policies targeting the non-taking-up problem.
 - Write a policy report that proposes to address the procrastination and learning-through-noticing problems using a pricing policy and the cognitive load problem using an information policy.
 
+---
+
 **The Impact of Public Support on Firms' Performance**  
 *Fall 2022 | Term Paper (Supervised by Prof. Worter Martin)*  
 - Examine the role that public support plays in promoting research and development.
 - Employ a unique micro panel dataset that combines firms' specific information about R&D behavior, performance, and characteristics from KOF (Swiss Economic Institute).
 - Conduct a difference-in-differences (DID) analysis with multiple data periods using STATA.
 - Find no crowding-out effects between public support and private R&D expenditures, but firms might rely more on the human resources of research institutes after being exposed to additional R&D cooperation.
+
+---
 
 **Does Globalization Promote Gender Equality? A Meta-Regression Analysis**  
 *Fall 2022 | Course Work in the seminar on Meta-Analysis (Instructed by Prof. Rainer Winkelmann)*  
@@ -68,11 +76,15 @@ GPA: 3.55/4.0
 - Study the source of heterogeneity in these papers.
 - Find that the average effect of globalization on gender equality is positive but small.
 
+---
+
 **Paper Critique for “The Economic Consequences of Increasing Sleep Among the Urban Poor”**  
 *Fall 2022 | Course Work in the seminar on the Psychology of Poverty (Instructed by Alexandra Victoria Schubert)*  
 - Introduce a paper in the literature on challenges associated with poverty and interventions.
 - Summarize the experimental design conducted in this research.
 - Outline the main findings, discuss shortcomings, and suggest avenues for future research.
+
+---
 
 **How the Adjustment of Local Labor Market Mitigate the Effects of Immigration on Local Wage Level**  
 *Spring 2022 | Course Work in the Seminar on Research in Macroeconomics (Instructed by Prof. Nir Jaimovich)*  

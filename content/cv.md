@@ -7,7 +7,7 @@ draft = false
 # MEI WANG
 Minneapolis, MN, USA
 
-meiwang.mwang@gmail.com
+wan02359@umn.edu
 
 ## EDUCATION
 

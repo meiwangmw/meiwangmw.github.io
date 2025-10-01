@@ -13,23 +13,20 @@ wan02359@umn.edu
 
 **University of Minnesota**, USA  
 *September 2025 – Present*  
-PhD student in Business Administration (Strategic Management & Entrepreneurship) at the Carlson School of Management at the University of Minnesota
+PhD student in Business Administration (Strategic Management & Entrepreneurship) at the Carlson School of Management
 
 **European University Institute**, Italy  
 *September 2023 – February 2024*  
 MRes in Economics (fully funded by the Italian Ministry of Foreign Affairs and International Cooperation)  
-Main content: First-year PhD courses
 
 **University of Zurich**, Switzerland  
 *September 2021 – August 2023*  
 MA in Economics (summa cum laude)  
-GPA: 5.5/6.0  
 Major: Economics; Minor: Development and Economic Policy
 
 **University of International Business and Economics**, China  
 *August 2014 – June 2018*  
 Bachelor of Management in Accounting  
-GPA: 3.55/4.0
 
 ## RESEARCH EXPERIENCE
 
